@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://salam-beta.vercel.app">
-    <img width="250"  title="Himani" alt="Himani">
+    <img width="250" src="https://github.com/Himani12322141/himani12322141/blob/main/assets/zen.gif" title="Hi" alt="Hi">
   </a>
 </p>
 
